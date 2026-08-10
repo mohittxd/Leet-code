@@ -22,4 +22,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/mohittxd/Leet-code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mohittxd/Leet-code/tree/master/0018-4sum) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/mohittxd/Leet-code/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/mohittxd/Leet-code/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/mohittxd/Leet-code/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/mohittxd/Leet-code/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
