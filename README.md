@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/mohittxd/Leet-code/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/mohittxd/Leet-code/tree/master/0098-validate-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -33,9 +34,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/mohittxd/Leet-code/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/mohittxd/Leet-code/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/mohittxd/Leet-code/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/mohittxd/Leet-code/tree/master/0098-validate-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/mohittxd/Leet-code/tree/master/0096-unique-binary-search-trees) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/mohittxd/Leet-code/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
