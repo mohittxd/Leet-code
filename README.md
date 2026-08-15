@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mohittxd/Leet-code/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/mohittxd/Leet-code/tree/master/0099-recover-binary-search-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/mohittxd/Leet-code/tree/master/1192-critical-connections-in-a-network) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -66,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mohittxd/Leet-code/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Graph Theory
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/mohittxd/Leet-code/tree/master/1192-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/mohittxd/Leet-code/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/mohittxd/Leet-code/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
