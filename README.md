@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/mohittxd/Leet-code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mohittxd/Leet-code/tree/master/0018-4sum) |
+| [0164-maximum-gap](https://github.com/mohittxd/Leet-code/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/mohittxd/Leet-code/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/mohittxd/Leet-code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mohittxd/Leet-code/tree/master/0018-4sum) |
+| [0164-maximum-gap](https://github.com/mohittxd/Leet-code/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/mohittxd/Leet-code/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -79,4 +81,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/mohittxd/Leet-code/tree/master/1192-critical-connections-in-a-network) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/mohittxd/Leet-code/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/mohittxd/Leet-code/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/mohittxd/Leet-code/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
