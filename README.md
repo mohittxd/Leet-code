@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/mohittxd/Leet-code/tree/master/0096-unique-binary-search-trees) |
+| [0470-implement-rand10-using-rand7](https://github.com/mohittxd/Leet-code/tree/master/0470-implement-rand10-using-rand7) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,4 +94,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/mohittxd/Leet-code/tree/master/0164-maximum-gap) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/mohittxd/Leet-code/tree/master/0470-implement-rand10-using-rand7) |
+## Randomized
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/mohittxd/Leet-code/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/mohittxd/Leet-code/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
