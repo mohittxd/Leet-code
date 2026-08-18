@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/mohittxd/Leet-code/tree/master/0096-unique-binary-search-trees) |
 | [0470-implement-rand10-using-rand7](https://github.com/mohittxd/Leet-code/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/mohittxd/Leet-code/tree/master/0478-generate-random-point-in-a-circle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,12 +99,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/mohittxd/Leet-code/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/mohittxd/Leet-code/tree/master/0478-generate-random-point-in-a-circle) |
 ## Randomized
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/mohittxd/Leet-code/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/mohittxd/Leet-code/tree/master/0478-generate-random-point-in-a-circle) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/mohittxd/Leet-code/tree/master/0470-implement-rand10-using-rand7) |
+## Geometry
+|  |
+| ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/mohittxd/Leet-code/tree/master/0478-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->
