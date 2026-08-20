@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mohittxd/Leet-code/tree/master/0018-4sum) |
 | [0164-maximum-gap](https://github.com/mohittxd/Leet-code/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/mohittxd/Leet-code/tree/master/0217-contains-duplicate) |
+| [0912-sort-an-array](https://github.com/mohittxd/Leet-code/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mohittxd/Leet-code/tree/master/0018-4sum) |
 | [0164-maximum-gap](https://github.com/mohittxd/Leet-code/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/mohittxd/Leet-code/tree/master/0217-contains-duplicate) |
+| [0912-sort-an-array](https://github.com/mohittxd/Leet-code/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,10 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/mohittxd/Leet-code/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/mohittxd/Leet-code/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/mohittxd/Leet-code/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/mohittxd/Leet-code/tree/master/0912-sort-an-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -113,4 +117,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/mohittxd/Leet-code/tree/master/0478-generate-random-point-in-a-circle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mohittxd/Leet-code/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mohittxd/Leet-code/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mohittxd/Leet-code/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mohittxd/Leet-code/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
