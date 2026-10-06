@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mohittxd/Leet-code/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/mohittxd/Leet-code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mohittxd/Leet-code/tree/master/0018-4sum) |
 | [0164-maximum-gap](https://github.com/mohittxd/Leet-code/tree/master/0164-maximum-gap) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mohittxd/Leet-code/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/mohittxd/Leet-code/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
